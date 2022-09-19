@@ -92,21 +92,7 @@ export default function Home() {
 
       <footer className="flex justify-center text-gray-700 py-4 font-bold dark:text-white">
         <a
-          href="https://github.com/mayandev/ikea-low-price"
-          className="hover:underline mx-3"
-        >
-          GitHub
-        </a>
-        {" · "}
-        <a
-          href="https://www.figma.com/file/h4Hk102P1yG8ledPaEcp7Y/IKEA-Low-Price"
-          className="hover:underline mx-3"
-        >
-          设计稿
-        </a>
-        {" · "}
-        <a
-          href="https://dun.mianbaoduo.com/@mayandev "
+          href="https://www.paypal.com/donate/?hosted_button_id=PTQZ7QCPST8Y6 "
           className="hover:underline mx-3"
         >
           打赏开发者
